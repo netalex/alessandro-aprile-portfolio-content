@@ -1,1 +1,72 @@
-[]
+[
+    {
+      "id": "angular",
+      "name": "Angular",
+      "category": "FRAMEWORK",
+      "level": 95,
+      "yearsOfExperience": 5,
+      "keywords": [
+        "Angular 19",
+        "TypeScript",
+        "RxJS",
+        "NgRx",
+        "Angular Material",
+        "PrimeNG",
+        "Signals",
+        "SSR"
+      ],
+      "featured": true,
+      "icon": "angular"
+    },
+    {
+      "id": "react",
+      "name": "React",
+      "category": "FRAMEWORK",
+      "level": 85,
+      "yearsOfExperience": 3,
+      "keywords": [
+        "Redux",
+        "React Native",
+        "Hooks",
+        "Context API",
+        "React Router",
+        "Next.js"
+      ],
+      "featured": true,
+      "icon": "react"
+    },
+    {
+      "id": "typescript",
+      "name": "TypeScript",
+      "category": "LANGUAGE",
+      "level": 90,
+      "yearsOfExperience": 5,
+      "keywords": [
+        "ES6+",
+        "Type System",
+        "Generics",
+        "Decorators",
+        "Module System"
+      ],
+      "featured": true,
+      "icon": "typescript"
+    },
+    {
+      "id": "frontend",
+      "name": "Frontend Development",
+      "category": "FRONTEND",
+      "level": 95,
+      "yearsOfExperience": 10,
+      "keywords": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "SCSS",
+        "Responsive Design",
+        "Web Performance",
+        "Browser APIs"
+      ],
+      "featured": true,
+      "icon": "typescript"
+    }
+  ]

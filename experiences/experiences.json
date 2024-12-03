@@ -1,1 +1,72 @@
-[]
+[
+    {
+      "id": "volo-2024",
+      "company": "Volo Consulting/Orangee S.r.l",
+      "role": "Frontend Developer",
+      "description": "Development of DNA analysis management systems for the Italian Ministry of Justice. Implemented critical features and ensured seamless integration across multiple complex applications.",
+      "achievements": [
+        "Implemented critical change requests",
+        "Improved system stability",
+        "Developed new features",
+        "Ensured cross-project integration"
+      ],
+      "technologies": [
+        "Angular",
+        "TypeScript",
+        "PrimeNG",
+        "Git",
+        "REST API"
+      ],
+      "startDate": "2024-07-01",
+      "endDate": "2024-10-01",
+      "location": "Italy",
+      "type": "REMOTE"
+    },
+    {
+      "id": "thinkopen-2024",
+      "company": "THINKOPEN",
+      "role": "Frontend Developer",
+      "description": "Worked on multiple high-profile projects including ICCREA banking systems and GFT insurance platforms. Led development teams and mentored junior developers.",
+      "achievements": [
+        "Led development of ICCREA banking contract management system",
+        "Mentored junior developers and improved team productivity",
+        "Implemented performance optimizations reducing load times by 40%",
+        "Established Git workflow and code review practices"
+      ],
+      "technologies": [
+        "Angular",
+        "React",
+        "TypeScript",
+        "Node.js",
+        "Git",
+        "Banking APIs"
+      ],
+      "startDate": "2018-02-01",
+      "endDate": "2024-07-01",
+      "location": "Milan",
+      "type": "hybrid"
+    },
+    {
+      "id": "3wlab-2017",
+      "company": "3Wlab Milano/Roma",
+      "role": "Frontend Developer",
+      "description": "Developed an integrated document management system for the public sector and created AI-powered chatbot solutions.",
+      "achievements": [
+        "Designed and implemented document management system UI",
+        "Developed AI chatbot interface with natural language processing",
+        "Optimized application performance for large document sets",
+        "Implemented responsive design for cross-platform compatibility"
+      ],
+      "technologies": [
+        "AngularJS",
+        "JavaScript",
+        "Node.js",
+        "AI/ML",
+        "Document Management"
+      ],
+      "startDate": "2015-01-01",
+      "endDate": "2017-12-31",
+      "location": "Milan/Rome",
+      "type": "hybrid"
+    }
+  ]
